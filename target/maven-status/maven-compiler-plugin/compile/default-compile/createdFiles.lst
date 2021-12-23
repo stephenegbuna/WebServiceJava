@@ -1,0 +1,10 @@
+com/ws/stayahead/GetOrdersResponse.class
+com/ws/stayahead/Order.class
+com/ws/stayahead/CustomerOrdersPortType.class
+com/ws/stayahead/Product.class
+com/ws/stayahead/CreateOrdersResponse.class
+com/ws/stayahead/ObjectFactory.class
+com/ws/stayahead/GetOrdersRequest.class
+com/ws/stayahead/package-info.class
+com/ws/stayahead/CustomerOrdersService.class
+com/ws/stayahead/CreateOrdersRequest.class
