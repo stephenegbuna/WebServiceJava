@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user id="1">
+    <name>Stephen</name>
+    <age>39</age>
+    <addresses>
+        <address>
+            <postcode>SW184UD</postcode>
+        </address>
+        <address>
+            <postcode>SW18</postcode>
+        </address>
+    </addresses>
+</user>

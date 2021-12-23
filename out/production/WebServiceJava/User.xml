@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tns:user xmlns:tns="http://www.stayahead.com/User"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.stayahead.com/User User.xsd">
+
+    <tns:id>1000</tns:id>
+    <tns:name>Emeka</tns:name>
+    <tns:dob>2001-01-01</tns:dob>
+    <tns:email>egbunachike@gmail.com</tns:email>
+    <tns:phone>07960099530</tns:phone>
+<!--    using unqualified to allow removal of tns // namespace-->
+    <isMale>true</isMale>
+    <tns:address>
+        <tns:street>25 Eton Close</tns:street>
+        <tns:town>London</tns:town>
+        <tns:postcode>SW184UD</tns:postcode>
+    </tns:address>
+</tns:user>

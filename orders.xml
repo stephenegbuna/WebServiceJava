@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orders>
+    <order orderNr="1000">
+        <productCode>MW97</productCode>
+        <quantity>100</quantity>
+        <description>MicroWare Office</description>
+        <salesPrice>305.0</salesPrice>
+        <customer customerNr="1317">
+            <street>Williams</street>
+            <town>15, London Road</town>
+            <name>Manchester</name>
+            <postcode>M13 6TR</postcode>
+        </customer>
+        <orderDate>2021-12-23T16:48:40.884Z</orderDate>
+    </order>
+    <order orderNr="1002">
+        <productCode>XM21</productCode>
+        <quantity>5</quantity>
+        <description>XVision Monitor</description>
+        <salesPrice>712.0</salesPrice>
+        <customer customerNr="1317">
+            <street>Williams</street>
+            <town>15, London Road</town>
+            <name>Manchester</name>
+            <postcode>M13 6TR</postcode>
+        </customer>
+        <orderDate>2021-12-23T16:48:40.884Z</orderDate>
+    </order>
+    <order orderNr="1003">
+        <productCode>DS96</productCode>
+        <quantity>3</quantity>
+        <description>IPhone 22</description>
+        <salesPrice>410.0</salesPrice>
+        <customer customerNr="1036">
+            <street>Smith</street>
+            <town>22, Gresham Court</town>
+            <name>Wivenhoe</name>
+            <postcode>CO15 7VD</postcode>
+        </customer>
+        <orderDate>2021-12-23T16:48:40.884Z</orderDate>
+    </order>
+    <order orderNr="1004">
+        <productCode>MW97</productCode>
+        <quantity>200</quantity>
+        <description>MicroWare Office</description>
+        <salesPrice>305.0</salesPrice>
+        <customer customerNr="1036">
+            <street>Smith</street>
+            <town>22, Gresham Court</town>
+            <name>Wivenhoe</name>
+            <postcode>CO15 7VD</postcode>
+        </customer>
+        <orderDate>2021-12-23T16:48:40.884Z</orderDate>
+    </order>
+    <order orderNr="1005">
+        <productCode>ASM2</productCode>
+        <quantity>20</quantity>
+        <description>Activan</description>
+        <salesPrice>55.0</salesPrice>
+        <customer customerNr="1036">
+            <street>Smith</street>
+            <town>22, Gresham Court</town>
+            <name>Wivenhoe</name>
+            <postcode>CO15 7VD</postcode>
+        </customer>
+        <orderDate>2021-12-23T16:48:40.884Z</orderDate>
+    </order>
+</orders>

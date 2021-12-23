@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order orderNr="1005">
+    <productCode>ASM2</productCode>
+    <quantity>20</quantity>
+    <description>Activan</description>
+    <salesPrice>55.0</salesPrice>
+    <customer customerNr="1036">
+        <street>Smith</street>
+        <town>22, Gresham Court</town>
+        <name>Wivenhoe</name>
+        <postcode>CO15 7VD</postcode>
+    </customer>
+    <orderDate>2021-12-23T16:48:32.043Z</orderDate>
+</order>

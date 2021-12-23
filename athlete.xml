@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<athlete>
+    <achievements>6 olympic medals</achievements>
+    <achievements>fastest human</achievements>
+    <achievements>Currently 100m world record</achievements>
+    <nationalTeam>Jamaica</nationalTeam>
+    <person id="1">
+        <name>Usain Bolt</name>
+        <age>37</age>
+        <gender>Male</gender>
+    </person>
+</athlete>
